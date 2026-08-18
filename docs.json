@@ -4,13 +4,16 @@
   "theme": "almond",
   "colors": {
     "primary": "#008254",
-    "light": "#1b204b",
-    "dark": "#8c94a5"
+    "light": "#00C97A",
+    "dark": "#008254"
   },
-  "favicon": "https://media.brand.dev/416aee19-02a9-41be-a001-1acf3984e04a.png",
+  "favicon": {
+    "light": "https://media.brand.dev/416aee19-02a9-41be-a001-1acf3984e04a.png",
+    "dark": "https://media.brand.dev/416aee19-02a9-41be-a001-1acf3984e04a.png"
+  },
   "logo": {
-    "light": "https://media.brand.dev/42fa6a10-fe58-4d3e-8103-4f007fdfadc6.webp",
-    "dark": "https://media.brand.dev/42fa6a10-fe58-4d3e-8103-4f007fdfadc6.webp"
+    "light": "/images/myconsultant-logo-w.webp",
+    "dark": "/images/MyConsultant_Black.png"
   },
   "navbar": {
     "primary": {
