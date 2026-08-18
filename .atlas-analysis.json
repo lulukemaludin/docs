@@ -1,0 +1,102 @@
+{
+  "projectType": "saas",
+  "projectName": "MyConsultant",
+  "projectDescription": "MyConsultant adalah platform web mandiri untuk persiapan Ujian Sertifikasi Konsultan Pajak (USKP) Tingkat A, menyediakan simulator ujian interaktif, bank soal dari 6 periode, bahan belajar perpajakan, dan panduan informasi USKP.",
+  "theme": "almond",
+  "primaryColor": "#008254",
+  "lightColor": "#1b204b",
+  "darkColor": "#8c94a5",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Panduan",
+        "groups": [
+          {
+            "group": "Mulai di Sini",
+            "pages": [
+              "introduction",
+              "cara-kerja",
+              "fitur-dan-manfaat"
+            ]
+          },
+          {
+            "group": "Simulator & Latihan",
+            "pages": [
+              "simulator/overview",
+              "simulator/pph-op",
+              "simulator/kup-ppsp-pp",
+              "simulator/pph-potput",
+              "simulator/ppn",
+              "simulator/pbb-bea-meterai",
+              "simulator/kode-etik"
+            ]
+          },
+          {
+            "group": "Bank Soal & Bahan Belajar",
+            "pages": [
+              "belajar/bank-soal",
+              "belajar/bahan-belajar",
+              "belajar/rincian-materi"
+            ]
+          },
+          {
+            "group": "Paket & Harga",
+            "pages": [
+              "harga"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Info USKP",
+        "groups": [
+          {
+            "group": "Tentang USKP",
+            "pages": [
+              "info-uskp/apa-itu-uskp",
+              "info-uskp/materi-ujian",
+              "info-uskp/persyaratan",
+              "info-uskp/dasar-hukum"
+            ]
+          },
+          {
+            "group": "Jadwal & Lokasi",
+            "pages": [
+              "info-uskp/jadwal",
+              "info-uskp/kota-lokasi-ujian",
+              "info-uskp/biaya"
+            ]
+          },
+          {
+            "group": "Sistem Penilaian & Pendaftaran",
+            "pages": [
+              "info-uskp/sistem-nilai",
+              "info-uskp/pendaftaran-mengulang"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Simulator ujian interaktif untuk 6 mata ujian USKP Tingkat A",
+    "250+ soal pilihan ganda dari 6 periode ujian resmi",
+    "Penilaian otomatis, kunci jawaban, dan pembahasan soal",
+    "Riwayat latihan yang dapat ditinjau kembali",
+    "Bank soal USKP A dalam format PDF (36 dokumen)",
+    "SDSN UU Perpajakan, ebook, slide, dan salinan peraturan",
+    "Rincian cakupan materi USKP A yang terupdate",
+    "Akses berbasis web tanpa instalasi aplikasi",
+    "Latihan dapat diulang tanpa batas",
+    "Panduan informasi USKP: jadwal, persyaratan, biaya, sistem nilai"
+  ],
+  "publicApiSurface": [
+    "Simulator Ujian (6 mata ujian: PPh OP, KUP, PPh PotPut, PPN, PBB, Kode Etik)",
+    "Bank Soal PDF (36 dokumen, 6 mata ujian x 6 periode)",
+    "Bahan Belajar (SDSN, ebook, slide, peraturan)",
+    "Rincian Cakupan Materi USKP A",
+    "Portal Info USKP (jadwal, persyaratan, biaya, sistem nilai, lokasi)",
+    "Paket Lifetime (Rp699.000 sekali bayar)",
+    "Paket Berlangganan (mulai Rp40.000/bulan)"
+  ]
+}

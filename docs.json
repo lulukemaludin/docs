@@ -1,0 +1,94 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "MyConsultant",
+  "theme": "almond",
+  "colors": {
+    "primary": "#008254",
+    "light": "#1b204b",
+    "dark": "#8c94a5"
+  },
+  "favicon": "https://media.brand.dev/416aee19-02a9-41be-a001-1acf3984e04a.png",
+  "logo": {
+    "light": "https://media.brand.dev/42fa6a10-fe58-4d3e-8103-4f007fdfadc6.webp",
+    "dark": "https://media.brand.dev/42fa6a10-fe58-4d3e-8103-4f007fdfadc6.webp"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Mulai Sekarang",
+      "href": "https://myconsultant.id/harga"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Panduan",
+        "groups": [
+          {
+            "group": "Mulai di Sini",
+            "pages": [
+              "introduction",
+              "cara-kerja",
+              "fitur-dan-manfaat"
+            ]
+          },
+          {
+            "group": "Simulator & Latihan",
+            "pages": [
+              "simulator/overview",
+              "simulator/pph-op",
+              "simulator/kup-ppsp-pp",
+              "simulator/pph-potput",
+              "simulator/ppn",
+              "simulator/pbb-bea-meterai",
+              "simulator/kode-etik"
+            ]
+          },
+          {
+            "group": "Bank Soal & Bahan Belajar",
+            "pages": [
+              "belajar/bank-soal",
+              "belajar/bahan-belajar",
+              "belajar/rincian-materi"
+            ]
+          },
+          {
+            "group": "Paket & Harga",
+            "pages": [
+              "harga"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Info USKP",
+        "groups": [
+          {
+            "group": "Tentang USKP",
+            "pages": [
+              "info-uskp/apa-itu-uskp",
+              "info-uskp/materi-ujian",
+              "info-uskp/persyaratan",
+              "info-uskp/dasar-hukum"
+            ]
+          },
+          {
+            "group": "Jadwal & Lokasi",
+            "pages": [
+              "info-uskp/jadwal",
+              "info-uskp/kota-lokasi-ujian",
+              "info-uskp/biaya"
+            ]
+          },
+          {
+            "group": "Penilaian & Pendaftaran",
+            "pages": [
+              "info-uskp/sistem-nilai",
+              "info-uskp/pendaftaran-mengulang"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
