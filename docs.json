@@ -60,6 +60,12 @@
             "pages": [
               "harga"
             ]
+          },
+          {
+            "group": "Bantuan Akun",
+            "pages": [
+              "panduan/reset-password"
+            ]
           }
         ]
       },
