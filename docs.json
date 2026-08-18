@@ -12,8 +12,8 @@
     "dark": "https://media.brand.dev/416aee19-02a9-41be-a001-1acf3984e04a.png"
   },
   "logo": {
-    "light": "/images/myconsultant-logo-w.webp",
-    "dark": "/images/MyConsultant_Black.png"
+    "light": "/images/MyConsultant_Black.png",
+    "dark": "/images/myconsultant-logo-w.webp"
   },
   "navbar": {
     "primary": {
